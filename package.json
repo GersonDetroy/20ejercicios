@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "primer node",
+  "main": "20ejercicio.js",
+  "scripts": {
+  "dev": "nodemon ejercicio1-5.js",
+  "dev1": "nodemon ejercicio6-10.js",
+  "dev2": "nodemon ejercicio11-15.js",
+  "dev3": "nodemon ejercicio16-20.js",
+  "dev4": "nodemon ejercicio10.js"
+
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
